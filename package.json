@@ -1,0 +1,27 @@
+{
+  "name": "desiratech-backend",
+  "version": "0.0.1",
+  "description": "backend api for desiratech website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djm204/desiratech-webapi.git"
+  },
+  "keywords": [
+    "backend",
+    "restapi",
+    "webapi"
+  ],
+  "author": "David Mendez - desiratech@gmail.com - github.com/djm204",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djm204/desiratech-webapi/issues"
+  },
+  "homepage": "https://github.com/djm204/desiratech-webapi#readme",
+  "devDependencies": {
+    "typescript": "^1.7.5"
+  }
+}
